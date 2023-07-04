@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shaikh Aftab Ahmed
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning Scala
+- 📫 You can contact through shaikhd994@gmail.com  
